@@ -20,8 +20,8 @@
     <content src="main.html" />
     <content original-src="main.html"/>
     <!-- Customize your app and platform with the preference element. -->
-    <preference name="DisallowOverscroll"         value="true" />
-
+    <preference name="DisallowOverscroll"  value="true" />
+	<preference name="loadUrlTimeoutValue" value="700000" />
     <!-- Define a specific version of PhoneGap to build into your app. -->
     <!-- <preference name="phonegap-version"       value="cli-6.0.0" /> -->
 
